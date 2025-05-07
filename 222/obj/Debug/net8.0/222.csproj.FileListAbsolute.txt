@@ -1,0 +1,14 @@
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\bin\Debug\net8.0\222.exe
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\bin\Debug\net8.0\222.deps.json
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\bin\Debug\net8.0\222.runtimeconfig.json
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\bin\Debug\net8.0\222.dll
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\bin\Debug\net8.0\222.pdb
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\222.AssemblyInfoInputs.cache
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\222.AssemblyInfo.cs
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\222.csproj.CoreCompileInputs.cache
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\222.dll
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\refint\222.dll
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\222.pdb
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\222.genruntimeconfig.cache
+C:\Users\ssuu0\OneDrive\바탕 화면\c#\sparta game 22222\sparta game 22222\222\222\obj\Debug\net8.0\ref\222.dll
